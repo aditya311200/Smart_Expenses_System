@@ -1,0 +1,31 @@
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\bin\Debug\StudentChallenge_051_076.exe.config
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\bin\Debug\StudentChallenge_051_076.exe
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\bin\Debug\StudentChallenge_051_076.pdb
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.csprojAssemblyReference.cache
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormLogin.resources
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.Properties.Resources.resources
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.csproj.GenerateResource.cache
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.csproj.CoreCompileInputs.cache
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.exe
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.pdb
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormRegister.resources
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormMain.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\bin\Debug\StudentChallenge_051_076.exe.config
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\bin\Debug\StudentChallenge_051_076.exe
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\bin\Debug\StudentChallenge_051_076.pdb
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.csprojAssemblyReference.cache
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormHistory.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormInputExpenses.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormLogin.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormMain.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormPlanning.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormRegister.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.Properties.Resources.resources
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.csproj.GenerateResource.cache
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.csproj.CoreCompileInputs.cache
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.exe
+E:\Backup\21 November 2019 16.23\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.pdb
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormHistory.resources
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormInputExpenses.resources
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormPlanning.resources
+E:\Student Challenge\StudentChallenge_051_076\StudentChallenge_051_076\obj\Debug\StudentChallenge_051_076.FormReBudget.resources
